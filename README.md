@@ -5,6 +5,10 @@ The Reign of Kings Server Browser lists all public game servers for the game [Re
 
 Currently only very basic functionality is provided for Windows, but the software should also build and run on other operating systems.
 
+Screenshot
+----------
+
+![Reign Of Kings Server Browser on Windows 8.1](https://secure.mueller-martin.net/cloud/index.php/s/60d96ca2b311281fda9203c0ea512652/download)
 
 Developer Information
 ---------------------
