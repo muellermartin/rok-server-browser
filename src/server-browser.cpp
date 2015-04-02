@@ -5,7 +5,7 @@
 
 ROK::ServerBrowser::ServerBrowser()
 {
-	this->url = QUrl("http://174.142.84.206/rok/lobby.php");
+	this->url = QUrl("http://store.codehatch.com/rok/lobby.php");
 	
 	this->toolbar = new QToolBar();
 	this->serverListView = new QTableView();
